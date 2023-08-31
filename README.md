@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **a book publishing app**
 
-- 🌱 I’m currently learning **kotlin, tensorflow, machine learning**
+- 🌱 I’m currently learning **Domain Driven Design, Test Driven Design, TypeScript, Flutter, GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keabetswe-mambule/](https://github.com/Keabetswe-mambule/)
 
-- 💬 Ask me about **PHP, Android, Drupal, Javascript, NextJS, PWA**
+- 💬 Ask me about **PHP, Drupal, JavaScript, TypeScript, ReactJS, NextJS, PWA, DDD, Flutter**
 
 - ⚡ Fun fact **😉**
 
