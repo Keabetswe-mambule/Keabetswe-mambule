@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keabetswe-mambule/](https://github.com/Keabetswe-mambule/)
 
-- 💬 Ask me about **PHP, Drupal, JavaScript, TypeScript, ReactJS, NextJS, PWA, DDD, Flutter**
+- 💬 Ask me about **PHP, Drupal, JavaScript, TypeScript, ReactJS, NextJS, PWA, DDD, Flutter, Dart**
 
 - ⚡ Fun fact **😉**
 
